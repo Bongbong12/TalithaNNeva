@@ -1,0 +1,14 @@
+
+
+===========================
+Bongbong Supermarket Nota
+===========================
+
+- Item : Milk
+- Price : 25000.0
+- Quantity : 5.0
+- Total Money : IDR 300000.0
+- Amount of change : IDR 175000.0
+
+==========================
+
